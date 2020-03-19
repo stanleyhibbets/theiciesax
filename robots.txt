@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aipahkahhe.shirtroom-ds.com/sitemap.xml
